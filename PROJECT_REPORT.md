@@ -13,7 +13,7 @@
 **Project Title:** Spaced Repetition Skill & Habit Tracker
 
 **Submitted in partial fulfilment of the requirements for the course
-evaluation of [Course Name / Code — to be filled in by student]**
+evaluation of [Programming in Java / CSE2006 ]**
 
 **Submitted by:**
 Name: Shivansh Gupta
