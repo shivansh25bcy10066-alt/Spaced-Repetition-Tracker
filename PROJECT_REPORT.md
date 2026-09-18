@@ -16,12 +16,12 @@
 evaluation of [Programming in Java / CSE2006 ]**
 
 **Submitted by:**
-Name: Divyam Verma
-Registration Number: 25BAI11161
-Program: B.Tech ( AI&ML )
+Name: Shivansh Gupta
+Registration Number: 25BCY10066
+Program: B.Tech ( Cyber Security )
 
 **Submitted to:**
-Faculty Name: Prof. Kamlesh Chandan Banshi
+Faculty Name: Prof.M.Suresh
 
 **Institution:** VIT Bhopal University, Kotri Kalan, Sehore,
 Madhya Pradesh, India
