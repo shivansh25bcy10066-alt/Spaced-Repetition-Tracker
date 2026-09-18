@@ -4,27 +4,19 @@
 
 ## 1. Cover Page
 
-**VIT BHOPAL UNIVERSITY**
+**Amrita Vishwa Vidyapeetam,Bengaluru**
 
-**School of Computing Science and Engineering**
-
-**Flipped Course Evaluation — Project Report**
+**Branch-Artificial Intelligence**
 
 **Project Title:** Spaced Repetition Skill & Habit Tracker
 
-**Submitted in partial fulfilment of the requirements for the course
-evaluation of [Programming in Java / CSE2006 ]**
-
 **Submitted by:**
-Name: Shivansh Gupta
-Registration Number: 25BCY10066
-Program: B.Tech ( Cyber Security )
+Name: Devansh Kaushik
+Registration Number: BL.SC.U4AIE26069
+Program: B.Tech ( Artificial Intelligence )
 
-**Submitted to:**
-Faculty Name: Prof.M.Suresh
 
-**Institution:** VIT Bhopal University, Kotri Kalan, Sehore,
-Madhya Pradesh, India
+**Institution:** Amrita Vishwa Vidyapeetam,Bengaluru,India
 
 **Academic Year:** 2026
 
